@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-editor-poc"
+    }
+  },
+  "defaultProject": "angular-editor-poc",
+  "cli": {
+    "analytics": "23bf5abc-f39d-437e-92bb-a9ec1614225a"
+  }
 }
